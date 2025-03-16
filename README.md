@@ -145,7 +145,7 @@ GitHub: kamleshjha
 
 Recording of Working Application
 
-[![Watch the video](https://img.youtube.com/vi/o3RwGcvxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3RwGcvxI)
+[![Watch the video](https://img.youtube.com/vi/o3RwGcvxI_Y&t=10s/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3RwGcvxI_Y&t=10s)
 
 
 Enjoy using Pager Tools! 🚀
