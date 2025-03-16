@@ -41,18 +41,30 @@ Styling: Google Fonts (Roboto)
 pip (Python package manager)
 
 Step 1: Clone the Repository
-git clone https://github.com/your-username/pager-tools.git
-cd pager-tools
+
+git clone https://github.com/kamleshjha/PagerTools.git
+
+cd PagerTools
+
 Step 2: Install Dependencies
+
 Install the required Python libraries using pip:
+
 pip install -r requirements.txt
+
 Step 3: Run the Application
+
 Start the Flask development server:
+
 python app.py
+
 Step 4: Access the Application
+
 Open your browser and navigate to:
+
 http://127.0.0.1:5000/
 
+## Project Structure
 pager-tools/
 │
 ├── app.py                  # Main Flask application
@@ -133,7 +145,7 @@ GitHub: kamleshjha
 
 Recording of Working Application
 
-[![Watch the video](https://img.youtube.com/vi/o3RwGcvxI_Y&t=10s/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3RwGcvxI_Y&t=10s)
+[![Watch the video](https://img.youtube.com/vi/o3RwGcvxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3RwGcvxI)
 
 
 Enjoy using Pager Tools! 🚀
